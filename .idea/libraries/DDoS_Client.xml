@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DDoS_Client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/DDoS_Client_jar/DDoS_Client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
