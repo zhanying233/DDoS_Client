@@ -1,6 +1,6 @@
-# DDoS_Control-and-DDoS_Client
+DDoS_Client
 
-一个贼简单的基于Java开发的DDoS攻击器（准确的来说应该是DoS 因为还没人用）
+一个贼简单的基于Java开发的DDoS攻击器被控端（准确的来说应该是DoS 因为还没人用）
 
 呜呜呜大佬们别骂了 再骂人都傻了QAQ
 
