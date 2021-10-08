@@ -7,6 +7,13 @@ import java.io.InputStreamReader;
 import java.net.InetAddress;
 import java.net.Socket;
 
+/**
+ * @ClassName : doConnect
+ * @Description : 启动类
+ * @Author : 战鹰
+ * @Version: 1.0
+ */
+
 public class doConnect {
     static String ServerName = "localhost";
     static int ServerPort = 8090;
