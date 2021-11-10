@@ -8,9 +8,9 @@ DDoS被控端<br>
 <br>
 呜呜呜开发大佬们别骂了 再骂人都傻了QAQ<br>
 <br>
-                                                ※请尊重版权
-                                                ※版权所属：战鹰
-                                                ※版权所在网站 - 战鹰网络技术站：https://www.zhanyingwl.com/
+                                                ※请尊重版权<br>
+                                                ※版权所属：战鹰<br>
+                                                ※版权所在网站 - 战鹰网络技术站：https://www.zhanyingwl.com/<br>
 <br>
 更新日志：
 <br>
