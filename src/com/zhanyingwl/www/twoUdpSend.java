@@ -7,6 +7,7 @@ import static com.zhanyingwl.www.doConnect.twogetTargetHost;
 
 public class twoUdpSend extends oneUdpSend {
     @Override
+
     public void run() {
         try {
             DatagramSocket ds = new DatagramSocket();
@@ -20,4 +21,5 @@ public class twoUdpSend extends oneUdpSend {
             e.printStackTrace();
         }
     }
+
 }
