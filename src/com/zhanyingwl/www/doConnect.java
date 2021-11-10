@@ -51,7 +51,7 @@ public class doConnect {
                             default:
                                 System.out.println("客户端接收到目标IP：" + onegetTargetHost);
                                 twogetTargetHost = onegetTargetHost;
-                                System.out.println("已将目标IP载入第二攻击引擎！第二攻击引擎目标IP：" + twogetTargetHost);
+                                System.out.println("已将目标IP载入第二攻击引擎！第二攻击引擎的目标IP：" + twogetTargetHost);
                                 oneUdpSend udpSend1 = new oneUdpSend();
                                 udpSend1.start();
                                 for (int i = 0; i < 10; i++) {
