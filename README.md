@@ -17,6 +17,8 @@ CC攻击端共享此警告，请务必遵守中华人民共和国相关法律法
 2021年11月10日16:32:25<br>
 1.更新攻击系统 新增双引擎（实际上是修复了端到端的传输空白BUG）<br>
 2.新上线了CC攻击端（按照此DDoS攻击端照葫芦画瓢罢了=w=）<br>
-
+  CC攻击端主控端链接：https://github.com/zhanying233/CC_Control<br>
+  CC攻击端被控端链接：https://github.com/zhanying233/CC_Client<br>
+<br>
 2021年10月8日11:53:00<br>
 1.基础版本上线<br>
