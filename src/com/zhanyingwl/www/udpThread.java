@@ -19,9 +19,9 @@ public class udpThread extends Thread {
     public void run() {
         try {
             DatagramSocket ds = new DatagramSocket();
-            InetAddress IAip = InetAddress.getByName(ip);
+            InetAddress IAip = InetAddress.getByName(targetIp);
             byte[] info = UDPData.getBytes();
-            DatagramPacket p = new DatagramPacket(info, UDPData.length(), IAip, Integer.parseInt(port));
+            DatagramPacket p = new DatagramPacket(info, UDPData.length(), IAip, Integer.parseInt(targetPort));
             while (true) {
                 if (!stop) {
                     ds.send(p);
